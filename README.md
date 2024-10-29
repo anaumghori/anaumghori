@@ -3,4 +3,4 @@ I’m driven by the challenge of solving complex problems and leveraging the pow
 
 Currently, I’m working on building various deep learning models and practicing DSA to enhance my skills and stay at the forefront of technological advancements.
 
-I’m eager to team up on exciting projects that explore AI-driven solutions and innovative tech applications. If you’re looking for a partner to brainstorm and build with, feel free to reach out to me via email ghorianaum@gmail.com or Linkedin https://www.linkedin.com/in/anaumghori/
+I’m eager to team up on exciting projects that explore AI-driven solutions and innovative tech applications. If you’re looking for a partner to brainstorm and build with, feel free to reach out to me via email ghorianaum@gmail.com or linkedin www.linkedin.com/in/anaumghori
