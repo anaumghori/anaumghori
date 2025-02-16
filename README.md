@@ -1,4 +1,6 @@
 # **Hii 👋 I’m Anaum**
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/878af9f3-1d24-4a25-9d60-6ad747f4a1af" alt="gif" width="300">
+</p>
 
-I’m eager to team up on exciting projects that explore AI-driven solutions and innovative tech applications. If you’re looking for a partner to brainstorm and build with, feel free to reach out to me via email ghorianaum@gmail.com or linkedin www.linkedin.com/in/anaumghori  |  ![4a9d7c207cda72505eff27d19b2089b8](https://github.com/user-attachments/assets/51a7a939-e08c-4bb4-bb80-44c4b66fd191)
-:-------------------------:|:-------------------------:
+I'm a second-year bachelor's student and a full-time AI engineer specializing in building modular, scalable, and production-ready AI systems. I have a particular liking for tasks involving AI agents and reinforcement learning. If you're interested in collaborating, sharing ideas, or just having a chat, feel free to reach out via email or LinkedIn!
