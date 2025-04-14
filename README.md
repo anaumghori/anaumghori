@@ -1,4 +1,5 @@
 ##  <img src="images/wave_emoji.gif" width="25"> Hello, I'm Anaum Ghori!
+(The “u” is silent, it’s really just “Anam.” But you can call me **Mir**, too.)  
 
 I'm a second-year Bachelor of Computer Applications student who enjoys working on frontier problems. My broad interest lies in artificial intelligence, with most of my work revolving around deep learning. I especially enjoy tackling multimodal problems (audio, speech, text, vision… throw anything at me). Lately, I’ve been diving deeper into reinforcement learning, both theoretically and practically.
 
