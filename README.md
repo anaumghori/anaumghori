@@ -1,7 +1,8 @@
-##  <img src="images/wave_emoji.gif" width="25"> Hello, I'm Anaum Ghori!
+#  <img src="https://github.com/user-attachments/assets/dc3d74cc-d758-4c8c-8285-4c0fdeadf670" width="80" align="absmiddle"> Anaum Ghori
+
 (The “u” is silent, it’s really just “Anam.” But you can call me **Mir**, too.)  
 
-I'm a second-year Bachelor of Computer Applications student who enjoys working on frontier problems. My broad interest lies in artificial intelligence, with most of my work revolving around deep learning. I especially enjoy tackling multimodal problems (audio, speech, text, vision… throw anything at me). Lately, I’ve been diving deeper into reinforcement learning, both theoretically and practically.
+I'm a second-year, Bachelor of Computer Applications student who enjoys working on frontier problems. My broad interest lies in artificial intelligence, with most of my work revolving around deep learning. I especially enjoy tackling multimodal problems (audio, speech, text, vision… throw anything at me). Lately, I’ve been diving deeper into reinforcement learning, both theoretically and practically.
 
 I have a genuine love for reading research papers and re-implementing the ones I find interesting. Right now, I’m practicing how to write one myself, from doing original research to designing experiments and exploring new approaches. One of my short-term goals is to publish a research paper, so if you're ever working on one, you know who to hit up as a co-author ;) My other technical interest is in Robotics. I don’t have hands-on experience yet, but I’ve been gradually building my understanding and learning more about the field.
 
