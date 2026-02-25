@@ -1,4 +1,4 @@
-Github doesn’t represent my full potential. My better projects are in an undisclosed location.
+Good projects currently in private repos
 
 ### Socials    
 → **Twitter**: [anaumghori](https://x.com/anaumghori)  
